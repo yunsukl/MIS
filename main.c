@@ -2,6 +2,7 @@
 
 int main(){
 	int number = 01;
-	fprintf("World");
+program
+	fprintf("World HELLO	");
 	return 0;
 }
