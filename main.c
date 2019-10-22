@@ -2,6 +2,6 @@
 
 int main(){
 	int number = 0;
-	fprintf("Hello World");
+	fprintf("Hello");
 	return 0;
 }
